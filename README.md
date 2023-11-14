@@ -1,8 +1,8 @@
-![MasterHead](https://blog.revolut.com/content/images/2018/01/psd-2-api.gif)
+<img align='center' alt='Coding' style="border-radius: 10px" src="https://blog.revolut.com/content/images/2018/01/psd-2-api.gif"/>
 
 <h1 align="center">Hi👋, I'm Mạnh Hùng</h1>
 <h3 align="center">A passionate Backend developer from Vietnamese</h3>
-<img align='right' alt='Coding' width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align='right' alt='Coding' width="400" style="border-radius:50%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 - 📫 How to reach me **sundayy.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
