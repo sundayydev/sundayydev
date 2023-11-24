@@ -1,4 +1,4 @@
-<img align='center' alt='Coding' style="border-radius: 10px" src="https://i.redd.it/lhnvupvps4h91.gif"/>
+<img align='center' alt='Coding' style="border-radius: 10px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1920&auto=webp&s=cfc8e275c41926cf002775fb17c19acecaa27c5e"/>
 
 <h1 align="center">Hi👋, I'm Mạnh Hùng</h1>
 <h3 align="center">A passionate Backend developer from Vietnamese</h3>
