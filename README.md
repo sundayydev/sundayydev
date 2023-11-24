@@ -1,4 +1,4 @@
-<img align='center' alt='Coding' style="border-radius: 10px" src="https://blog.revolut.com/content/images/2018/01/psd-2-api.gif"/>
+<img align='center' alt='Coding' style="border-radius: 10px" src="https://i.redd.it/lhnvupvps4h91.gif"/>
 
 <h1 align="center">Hi👋, I'm Mạnh Hùng</h1>
 <h3 align="center">A passionate Backend developer from Vietnamese</h3>
